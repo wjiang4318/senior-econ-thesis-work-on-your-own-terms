@@ -3,7 +3,7 @@
 This was my senior thesis work in economics at Hamilton College, May 2025. You
 can read the full thesis [here](docs/Wilson_Jiang_560_Thesis.pdf).
 
-It looks at how nonstandard work arrangements (independent contractors, contract
+I examined how nonstandard work arrangements (independent contractors, contract
 firm employees, on-call workers) relate to job satisfaction and happiness, using
 the General Social Survey from 2006 to 2022. I did the cleaning and exploratory
 work in R, and the regressions in Stata.
