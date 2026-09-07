@@ -1,0 +1,19 @@
+# R session artifacts
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+*.Rproj.user
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
+
+# Generated outputs are committed on purpose (see README).
+# Uncomment to stop tracking them:
+# output/
+
+# Rendered locally by RStudio preview, not part of the repo
+README.html
